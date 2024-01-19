@@ -1,0 +1,10 @@
+.home{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(236, 195, 118) !important;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
